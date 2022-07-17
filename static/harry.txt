@@ -1,0 +1,2 @@
+This is a testing file to check whether Flask is working or not
+//Static files can be read as it is so it's advicable to avoid keep files in static folder
